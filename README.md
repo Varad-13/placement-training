@@ -26,5 +26,5 @@ Save Space by sharing
 - Python shares address space in variable with equal values
 - Python always updates values by giving new space. Old values will always be replaced at every update.
 
-Python supports AGC (Auto Garbage Collection):
--  
+Python supports AGC (Auto Garbage Collection)
+
