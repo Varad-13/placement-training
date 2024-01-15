@@ -25,10 +25,10 @@ Features of Python:
 Save Space by sharing
 - Python shares address space in variable with equal values
 - Python always updates values by giving new space. Old values will always be replaced at every update.
+- Old values are marked as garbage and taken care of by AGC
+- Python supports AGC (Auto Garbage Collection)
 
-Python supports AGC (Auto Garbage Collection)
-
-In python, inputs can only be of type string. To avoid this, we can cast the datatype while taking input. Casting input to bool is special case. It checks whether there is any input and if there is any data inputted, it will always be casted to true
+In Python, inputs can only be of type string. To avoid this, we can cast the datatype while taking input. Casting input to bool is special case. It checks whether there is any input and if there is any data inputted, it will always be casted to true
 
 Python Data Types:
 - int
@@ -36,3 +36,9 @@ Python Data Types:
 - string
 - boolean
 - complex
+
+Python operators:
+- There is not increment or decrement operators (i++, i--, ++i, --i)
+- Arithmetic operators are present (* / + - %)
+- // : Integer division. It always returns floor value, not nearest integer.
+- **: Power
