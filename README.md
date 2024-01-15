@@ -18,6 +18,13 @@ Python is popular for few reasons:
 
 Features of Python:
 - Loose Syntaxed: Multiple ways of doing a single thing
-- OOPS: 
+- OOPS
 - Simple
 - Dynamic Casting: Cast as per need. No need to initialize variables to int, String, double etc. Python compiler handles it on its own.
+
+Save Space by sharing
+- Python shares address space in variable with equal values
+- Python always updates values by giving new space. Old values will always be replaced at every update.
+
+Python supports AGC (Auto Garbage Collection):
+-  
