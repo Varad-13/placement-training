@@ -77,3 +77,8 @@
 - Output: Percentage
 - Process: If x/total then y/100. Find y
 - Input: Passing marks and Total marks
+
+**Program to find average of three numbers**
+- Output: Average
+- Process: (a+b+c)/3
+- Input: a, b, c where a, b and c are numerical values
