@@ -82,3 +82,8 @@
 - Output: Average
 - Process: (a+b+c)/3
 - Input: a, b, c where a, b and c are numerical values
+
+**Program to convert Farenheit to Celcius**
+- Output: Temperature in Celcius
+- Process: C = (F-32) * 5/9
+- Input: Temperature in Farenheit
