@@ -28,3 +28,11 @@ Save Space by sharing
 
 Python supports AGC (Auto Garbage Collection)
 
+In python, inputs can only be of type string. To avoid this, we can cast the datatype while taking input. Casting input to bool is special case. It checks whether there is any input and if there is any data inputted, it will always be casted to true
+
+Python Data Types:
+- int
+- float
+- string
+- boolean
+- complex
