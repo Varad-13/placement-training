@@ -72,3 +72,8 @@
     - Output: area of the circle
     - Process: pi*square(radius)
     - Input: radius
+
+**Program to calculate percentage of passing:**
+- Output: Percentage
+- Process: If x/total then y/100. Find y
+- Input: Passing marks and Total marks
