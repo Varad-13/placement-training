@@ -5,4 +5,10 @@ print("Integral Division 39//10",c)
 d = 5%2
 print("Modulus 5%2", d)
 e = 15%20
-print("Example of modulus where denominator is grater 15%20",e)
+print("Modulus where denominator is grater 15%20",e)
+e += 1
+print("Shorthand operator e+=1", e)
+e = e>>2
+print("Bitwise: 16>>2", e)
+e = e>>2
+print("Bitwise: 4<<2", e)

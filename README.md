@@ -42,3 +42,12 @@ Python operators:
 - Arithmetic operators are present (* / + - %)
 - // : Integer division. It always returns floor value, not nearest integer.
 - **: Power
+- Shorthand operators: x+=1: Instead of x=x+1 or x++
+- Relational and logical:
+    - < > <= >= == !=
+    - and
+    - or
+- Bitwise operations:
+    - <<n is to multiply number by 2^n
+    - >>n is to divide(int) number by 2^n
+    - ~(n) is to finds 2's complement
