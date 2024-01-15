@@ -48,6 +48,17 @@ Python operators:
     - and
     - or
 - Bitwise operations:
-    - <<n is to multiply number by 2^n
-    - >>n is to divide(int) number by 2^n
-    - ~(n) is to finds 2's complement
+    - `` <<n is to multiply number by 2^n ``
+    - `` >>n is to divide(int) number by 2^n ``
+    - `` ~(n) is to finds 2's complement ``
+    - `` a^b is a xor b``
+
+Swapping 2 numbers:
+- a,b=b,a 
+- xor can be used for this operation
+- ```
+    a=a^b 
+    b=a^b
+    a=a^b
+    ```
+    
