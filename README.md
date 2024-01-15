@@ -86,4 +86,25 @@
 **Program to convert Farenheit to Celcius**
 - Output: Temperature in Celcius
 - Process: C = (F-32) * 5/9
-- Input: Temperature in Farenheit
+- Input: Temperature in 
+
+**Program to find roots of Quadratic equation**
+- Output: Real roots of the equation or None
+- Process: 
+    1. Check if there is possible real roots
+    2. If yes, find roots and return
+    3. Else return none
+- Input: a, b, c of Quadratic equation
+
+**Sequence:**
+A set of statements which are executed one after another.
+
+**Branch:**
+Based on conditions, execute only a particular sequence from a group of sequences.
+
+``Conditions: if..else, if...elif...else``
+
+**Loops:**
+Repeat a set of instructions or a sequence "n" number of times.
+
+``Loops: for, while``
