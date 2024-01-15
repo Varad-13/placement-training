@@ -38,13 +38,13 @@ Python Data Types:
 - complex
 
 Python operators:
-- There is not increment or decrement operators (i++, i--, ++i, --i)
-- Arithmetic operators are present (* / + - %)
-- // : Integer division. It always returns floor value, not nearest integer.
-- **: Power
-- Shorthand operators: x+=1: Instead of x=x+1 or x++
+- There is not increment or decrement operators ``(i++, i--, ++i, --i)``
+- Arithmetic operators are present ``(* / + - %)``
+- ``//`` : Integer division. It always returns floor value, not nearest integer.
+- ``**``: Power
+- Shorthand operators: x+=1: Instead of ``x=x+1`` or ``x++``
 - Relational and logical:
-    - < > <= >= == !=
+    - ``< > <= >= == !=``
     - and
     - or
 - Bitwise operations:
@@ -54,7 +54,7 @@ Python operators:
     - `` a^b is a xor b``
 
 Swapping 2 numbers:
-- a,b=b,a 
+- ``a,b=b,a ``
 - xor can be used for this operation
 - ```
     a=a^b 
