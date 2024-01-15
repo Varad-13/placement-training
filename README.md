@@ -108,3 +108,6 @@ Based on conditions, execute only a particular sequence from a group of sequence
 Repeat a set of instructions or a sequence "n" number of times.
 
 ``Loops: for, while``
+
+**Problem:**
+Go from start to end but add every odd number and multiple every even number.
