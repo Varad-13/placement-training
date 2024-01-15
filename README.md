@@ -53,7 +53,7 @@
     - `` ~(n) is to finds 2's complement ``
     - `` a^b is a xor b``
 
-Swapping 2 numbers:
+**Swapping 2 numbers:**
 - ``a,b=b,a ``
 - xor can be used for this operation
 - ```
@@ -62,3 +62,13 @@ Swapping 2 numbers:
     a=a^b
     ```
     
+
+**Bottom up approach to coding**
+- Think about output/outcome
+- Formulize a process
+- Think about inputs
+- Before coding, always do some paperwork to find a basic flow of the program
+- Let us take an example of finding area of circle:
+    - Output: area of the circle
+    - Process: pi*square(radius)
+    - Input: radius
