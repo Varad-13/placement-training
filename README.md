@@ -14,4 +14,10 @@ Python is popular for few reasons:
 - Python is mainly used for AI, DS applications
 - Python is the most in demand programming language as per LinkedIn Job postings
 - Python requires minimal amount of code as compared to other languages
-- 
+- Python follows algorithm to coding principle
+
+Features of Python:
+- Loose Syntaxed: Multiple ways of doing a single thing
+- OOPS: 
+- Simple
+- Dynamic Casting: Cast as per need. No need to initialize variables to int, String, double etc. Python compiler handles it on its own.
