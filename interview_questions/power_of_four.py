@@ -1,15 +1,10 @@
 import math as mt
 
 def fun(num):
-    if num<0:
-        i = -1
-        num = int(num/i)
     for x in range (num+1):
         y = mt.pow(4, x)
         if y>=num:
             if y==num:
-                if i:
-                    return  str(x)+"i"
                 return str(x)
             else:
                 return False
